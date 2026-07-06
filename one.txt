@@ -2,4 +2,7 @@ one
 1
 Another feature
 Another feature
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
